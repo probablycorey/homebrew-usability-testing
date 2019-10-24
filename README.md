@@ -2,8 +2,8 @@
 
 To install
 
-`brew install probablycorey/usability-testing/gh`
+`brew install probablycorey/homebrew-usability-testing/gh`
 
 When we are done you can remove this command with
 
-`brew remove probablycorey/usability-testing/gh`
+`brew remove probablycorey/homebrew-usability-testing/gh`
