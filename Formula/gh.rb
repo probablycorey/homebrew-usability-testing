@@ -1,4 +1,4 @@
-class UsabilityTesting < Formula
+class Gh < Formula
   desc "For usability testing"
   homepage ""
   url "https://github.com/probablycorey/usability-testing/releases/download/v0.0.1/gh"
