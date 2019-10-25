@@ -1,9 +1,8 @@
 class Gh < Formula
   desc "For usability testing"
   homepage ""
-  url "https://github.com/probablycorey/usability-testing/releases/download/v0.0.1/gh"
-  sha256 "a5607f503f253d5cd4e2c451a8f74e371fbacead022e3d56706ee0dce76dd901"
-
+  url "https://github.com/probablycorey/usability-testing/releases/download/v0.0.2/gh"
+  
   def install
     bin.install "gh"
   end
